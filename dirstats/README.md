@@ -1,3 +1,14 @@
+# Directory Statistics
+
+The code scans for all files and directories and then reports various statistics about the files and directories it encounters.
+
+The code you will write will include the following functionality:
+- Recursive scanning of files and subdirectories.
+- Determining the sizes of all files;
+- Finding duplicate files;
+- Finding most common file types;
+- Finding most common words in all files.
+
 To compile all code, type:
 ```
 $ make
@@ -62,6 +73,3 @@ Most common file types:
 Most common words:
   - "abcd" x 6
 --------------------------------------------------------------
-
-
-
