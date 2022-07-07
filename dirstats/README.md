@@ -18,6 +18,8 @@ To run the resulting code on directory test1:
 ```
 $ ./dirstats 5 test1
 ```
+n=5 is the number of most frequent file-types, words, and number of groups that the function will report.
+test1 is the top directory name that the program must examine.
 
 ## Test files:
 ```
